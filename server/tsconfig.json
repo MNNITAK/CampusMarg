@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ESNext",
+    "outDir": "dist",
+    "rootDir": "src", // Root directory is the backend folder
+    "strict": true,
+    "allowArbitraryExtensions": true,
+  }
+}
