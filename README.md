@@ -31,5 +31,60 @@ Welcome to **Campus Marg**, a smart navigation app designed specifically for **M
 ## 🧭 Example Path Format
 
 ```json
-- "path": [ // { // "from": "S1", // "to": "J1", // "coordinates": [ // { // "x": 25, // "y": 60, // "floor": 1 // }, // { // "x": 25, // "y": 40, // "floor": 1 // } // ], // "instruction": "Move from Staircase 1 to Junction 1" // }, // { // "from": "J1", // "to": "C1", // "coordinates": [ // { // "x": 25, // "y": 40, // "floor": 1 // }, // { // "x": 20, // "y": 20, // "floor": 1 // } // ], // "instruction": "Move from Junction 1 to Corridor 1" // }, // { // "from": "C1", // "to": "R101", // "coordinates": [ // { // "x": 20, // "y": 20, // "floor": 1 // }, // { // "x": 10, // "y": 20, // "floor": 1 // } // ], // "instruction": "Move from Corridor 1 to Classroom 101" // } // ],
+{
+  "path": [
+    {
+      "from": "S1",
+      "to": "J1",
+      "coordinates": [
+        {
+          "x": 25,
+          "y": 60,
+          "floor": 1
+        },
+        {
+          "x": 25,
+          "y": 40,
+          "floor": 1
+        }
+      ],
+      "instruction": "Move from Staircase 1 to Junction 1"
+    },
+    {
+      "from": "J1",
+      "to": "C1",
+      "coordinates": [
+        {
+          "x": 25,
+          "y": 40,
+          "floor": 1
+        },
+        {
+          "x": 20,
+          "y": 20,
+          "floor": 1
+        }
+      ],
+      "instruction": "Move from Junction 1 to Corridor 1"
+    },
+    {
+      "from": "C1",
+      "to": "R101",
+      "coordinates": [
+        {
+          "x": 20,
+          "y": 20,
+          "floor": 1
+        },
+        {
+          "x": 10,
+          "y": 20,
+          "floor": 1
+        }
+      ],
+      "instruction": "Move from Corridor 1 to Classroom 101"
+    }
+  ]
+}
+
 
