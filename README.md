@@ -6,12 +6,12 @@ Welcome to **Campus Marg**, a smart navigation app designed specifically for **M
 
 ## 🚀 Features
 
-✅ **Campus-wide Navigation** – Find paths from one building to another  
-✅ **AR-Based Directions** – Experience real-world navigation through augmented reality  
-✅ **Interactive Path Visualization** – See routes in a clear, step-by-step manner  
-✅ **Latitude & Longitude Conversion** – Maps GPS coordinates into navigable x, y coordinates  
-✅ **Custom Instructions** – Context-aware navigation messages  
-✅ **Lightweight & Fast** – Optimized for smooth performance on mobile devices  
+ **Campus-wide Navigation** – Find paths from one building to another  
+ **AR-Based Directions** – Experience real-world navigation through augmented reality  
+ **Interactive Path Visualization** – See routes in a clear, step-by-step manner  
+ **Latitude & Longitude Conversion** – Maps GPS coordinates into navigable x, y coordinates  
+ **Custom Instructions** – Context-aware navigation messages  
+ **Lightweight & Fast** – Optimized for smooth performance on mobile devices  
 
 ---
 
@@ -31,17 +31,5 @@ Welcome to **Campus Marg**, a smart navigation app designed specifically for **M
 ## 🧭 Example Path Format
 
 ```json
-{
-  "path": [
-    {
-      "from": "Surbhi Puravar Cabin",
-      "to": "Junction 1",
-      "coordinates": [
-        { "x": 76.5, "y": -9.3, "floor": 1 },
-        { "x": 64.2, "y": -2.0, "floor": 1 }
-      ],
-      "instruction": "Go straight towards junction 1"
-    }
-  ]
-}
+- "path": [ // { // "from": "S1", // "to": "J1", // "coordinates": [ // { // "x": 25, // "y": 60, // "floor": 1 // }, // { // "x": 25, // "y": 40, // "floor": 1 // } // ], // "instruction": "Move from Staircase 1 to Junction 1" // }, // { // "from": "J1", // "to": "C1", // "coordinates": [ // { // "x": 25, // "y": 40, // "floor": 1 // }, // { // "x": 20, // "y": 20, // "floor": 1 // } // ], // "instruction": "Move from Junction 1 to Corridor 1" // }, // { // "from": "C1", // "to": "R101", // "coordinates": [ // { // "x": 20, // "y": 20, // "floor": 1 // }, // { // "x": 10, // "y": 20, // "floor": 1 // } // ], // "instruction": "Move from Corridor 1 to Classroom 101" // } // ],
 
