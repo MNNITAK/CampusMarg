@@ -1,3 +1,7 @@
+
+
+![Alt text](https://drive.google.com/file/d/1G8MIDx0g5FN6ld8gbCc43fwMwt17aeqv/view?usp=sharing)
+
 # 📍 Campus Marg – Academic Building Navigator
 
 Welcome to **Campus Marg**, a smart navigation app designed specifically for **MNNIT Allahabad**! Whether you're a student, faculty member, or visitor, this app helps you easily find your way around the academic buildings and the campus with intuitive directions, seamless location tracking, and an immersive AR-based experience.
