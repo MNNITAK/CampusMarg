@@ -1,6 +1,6 @@
 
 
-![Alt text](https://drive.google.com/file/d/1G8MIDx0g5FN6ld8gbCc43fwMwt17aeqv/view?usp=sharing)
++
 
 # 📍 Campus Marg – Academic Building Navigator
 
